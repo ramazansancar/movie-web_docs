@@ -5,10 +5,10 @@ import coverUrl from "./public/cover.png";
 import faviconUrl from "./public/favicon.ico";
 
 export default defineTheme({
-  github: "movie-web/movie-web",
+  github: "ramazansancar/movie-web",
   contentFooter: {
     text: "Made with 💜",
-    editRepositoryBase: "https://github.com/movie-web/docs/blob/master",
+    editRepositoryBase: "https://github.com/ramazansancar/docs/blob/movie-web_docs",
     socials: [
       social.github("https://github.com/movie-web"),
       social.discord("https://movie-web.github.io/links/discord"),
