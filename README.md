@@ -1,4 +1,3 @@
 # movie-web docs
 
-Find it at https://movie-web.github.io/docs
-
+Find it at https://ramazansancar.github.io/movie-web_docs
